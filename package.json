@@ -4,7 +4,7 @@
   "description": "Node.js API Authentication using JWT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/ClintPy/Node.js-API-Authentication-with-JWT#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.5",
+    "nodemon": "^1.19.1"
   }
 }
