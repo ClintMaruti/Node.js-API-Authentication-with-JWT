@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ClintPy/Node.js-API-Authentication-with-JWT#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.6.5",
     "nodemon": "^1.19.1"
   }
